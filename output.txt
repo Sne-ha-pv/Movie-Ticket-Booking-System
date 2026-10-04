@@ -1,0 +1,240 @@
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 1
+
+===== AVAILABLE MOVIES =====
+1. Avatar
+2. Avengers
+3. Leo
+4. Interstellar
+5. KGF
+
+===== AVAILABLE SHOW TIMES =====
+1. 10:00 AM
+2. 1:00 PM
+3. 4:00 PM
+4. 7:00 PM
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 2
+
+Enter customer name: Ammu
+
+Available Movies:
+1. Avatar
+2. Avengers
+3. Leo
+4. Interstellar
+5. KGF
+Enter movie choice: 1
+
+Available Show Times:
+1. 10:00 AM
+2. 1:00 PM
+3. 4:00 PM
+4. 7:00 PM
+Enter show time choice: 1
+Enter number of tickets: 2
+
+Booking request added to queue successfully!
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 2
+
+Enter customer name: Rahul
+
+Available Movies:
+1. Avatar
+2. Avengers
+3. Leo
+4. Interstellar
+5. KGF
+Enter movie choice: 2
+
+Available Show Times:
+1. 10:00 AM
+2. 1:00 PM
+3. 4:00 PM
+4. 7:00 PM
+Enter show time choice: 2
+Enter number of tickets: 1
+
+Booking request added to queue successfully!
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 2
+
+Enter customer name: Anu
+
+Available Movies:
+1. Avatar
+2. Avengers
+3. Leo
+4. Interstellar
+5. KGF
+Enter movie choice: 3
+
+Available Show Times:
+1. 10:00 AM
+2. 1:00 PM
+3. 4:00 PM
+4. 7:00 PM
+Enter show time choice: 3
+Enter number of tickets: 3
+
+Booking request added to queue successfully!
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 4
+
+===== WAITING QUEUE =====
+
+Position: 1
+Customer: Ammu
+Movie   : Avatar
+Time    : 10:00 AM
+Tickets : 2
+
+Position: 2
+Customer: Rahul
+Movie   : Avengers
+Time    : 1:00 PM
+Tickets : 1
+
+Position: 3
+Customer: Anu
+Movie   : Leo
+Time    : 4:00 PM
+Tickets : 3
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 3
+
+===== PROCESSING BOOKING =====
+Customer Name : Ammu
+Movie         : Avatar
+Show Time     : 10:00 AM
+Tickets       : 2
+
+Booking processed successfully!
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 3
+
+===== PROCESSING BOOKING =====
+Customer Name : Rahul
+Movie         : Avengers
+Show Time     : 1:00 PM
+Tickets       : 1
+
+Booking processed successfully!
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 3
+
+===== PROCESSING BOOKING =====
+Customer Name : Anu
+Movie         : Leo
+Show Time     : 4:00 PM
+Tickets       : 3
+
+Booking processed successfully!
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 4
+
+No customers are waiting in the queue.
+
+=====================================
+     MOVIE TICKET BOOKING SYSTEM
+=====================================
+
+1. View Available Movies
+2. Book Tickets
+3. Process Next Booking
+4. Display Waiting Queue
+5. Exit
+
+Enter your choice: 5
+
+Thank you for using the system!
